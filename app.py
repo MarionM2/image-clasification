@@ -2,7 +2,7 @@ import streamlit as st
 import json
 import os
 import glob
-from sklearn.feature_extraction.text import TfidfVectorizer
+import numpy as np
 from sklearn.cluster import KMeans
 from PIL import Image
 
@@ -21,9 +21,8 @@ def save_to_json(data, filename):
 
 # Function to cluster images using KMeans
 def cluster_images(image_paths):
-    # Dummy feature extraction (TF-IDF) for illustration purposes
-    vectorizer = TfidfVectorizer()
-    features = vectorizer.fit_transform(image_paths)
+    # Use the file paths as features directly
+    features = np.array([[float(i)] for i in range(len(image_paths))])
 
     # Dummy clustering using KMeans for illustration purposes
     kmeans = KMeans(n_clusters=3, random_state=42)

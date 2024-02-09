@@ -1,27 +1,27 @@
 [
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\53.jpg",
-        "cluster": 0
+        "cluster": 1
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\54.jpg",
-        "cluster": 0
+        "cluster": 1
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\55.jpg",
-        "cluster": 0
+        "cluster": 1
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\56.jpg",
-        "cluster": 0
+        "cluster": 1
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\57.jpg",
-        "cluster": 0
+        "cluster": 1
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\58.jpg",
-        "cluster": 0
+        "cluster": 1
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\65.jpg",
@@ -41,7 +41,7 @@
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\69.jpg",
-        "cluster": 2
+        "cluster": 0
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\70.jpg",
@@ -49,26 +49,26 @@
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\77.jpg",
-        "cluster": 0
+        "cluster": 2
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\78.jpg",
-        "cluster": 0
+        "cluster": 2
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\79.jpg",
-        "cluster": 1
+        "cluster": 2
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\80.jpg",
-        "cluster": 0
+        "cluster": 2
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\81.jpg",
-        "cluster": 0
+        "cluster": 2
     },
     {
         "file_path": "C:/Users/Hp/Downloads/image clasification/shoes\\82.jpg",
-        "cluster": 0
+        "cluster": 2
     }
 ]
